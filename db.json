@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Tony stark",
+      "empresa": "Industrias Stark",
+      "email": "tony@correo.com",
+      "telefono": "778890876",
+      "notas": "iron man necesita piezas tecnologia especifica para su taller",
+      "id": 1
+    },
+    {
+      "nombre": "Steve Roger",
+      "empresa": "Los vegadores",
+      "email": "EltraseroDeAmerica@correo.com",
+      "telefono": "09009431235",
+      "notas": "steve royers solicita diseños para su nuevo super taje",
+      "id": 2
+    },
+    {
+      "nombre": "Natasha Romanov",
+      "empresa": "Los vengadores",
+      "email": "Naty@correo.com",
+      "telefono": "88897654454",
+      "notas": "la viuda negra expone secretos de hidra y de shield",
+      "id": 3
+    },
+    {
+      "nombre": "Bruce Banner",
+      "empresa": "Los vengadores",
+      "email": "hulk@correo.com",
+      "telefono": "554466777789",
+      "notas": "el monstruo verde solicita nuevos componentes para su nuevo laborarorio",
+      "id": 4
+    },
+    {
+      "nombre": "Tim Barton",
+      "empresa": "Los vengadores",
+      "email": "Hokaey@correo.com",
+      "telefono": "554467820198",
+      "notas": "Hokaey pide un acotizacion para nuevo armamento de guerra",
+      "id": 5
+    },
+    {
+      "nombre": "Thor Odinson",
+      "empresa": "Los vengadores",
+      "email": "thorcito@correo.com",
+      "telefono": "5566477488499",
+      "notas": "cliente solicita proviciones para su cava, incluye cerveza coniana y vino de barricas especiales",
+      "id": 6
+    }
+  ]
+}
