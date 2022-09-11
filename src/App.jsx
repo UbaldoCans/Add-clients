@@ -7,8 +7,9 @@ import Detalles from './paginas/Detalles'
 
 
 function App() {
+   
   
-
+  
   return (
     <BrowserRouter>
         <Routes>
